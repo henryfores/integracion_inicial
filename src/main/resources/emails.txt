@@ -1,0 +1,25 @@
+trabajo@google.com, postulacion
+a@correo.com,asunto1
+b@correo.com,asunto2
+c@correo.com,asunto3
+d@correo.com,asunto4
+e@correo.com,asunto5
+f@correo.com,asunto6
+g@correo.com,asunto7
+h@correo.com,asunto8
+i@correo.com,asunto9
+
+
+j@correo.com,asunto10
+k@correo.com,asunto11
+l@correo.com,asunto12
+m@correo.com,asunto13
+n@correo.com,asunto14
+o@correo.com,asunto15
+p@correo.com,asunto16
+q@correo.com,asunto17
+r@correo.com,asunto18
+s@correo.com,asunto19
+t@correo.com,asunto20
+u@correo.com,asunto21
+v@correo.com,asunto22
