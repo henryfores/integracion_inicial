@@ -52,7 +52,7 @@ Path path = Paths.get("src/main/resources/emails.txt");
     }
 EnviadorCorreo enviador = new EnviadorCorreo();
 for (CorreoElectronico coreos: correo) {
-	enviador.enviarCorreo(correo);
+	enviador.enviarCorreo(coreos);
 }
 
 	}
